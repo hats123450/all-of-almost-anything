@@ -1,0 +1,8 @@
+(thats wierd all the Extensible Markup Languages or (eml) have ml at the end)
+(but yml aka (yaml) is somehow not a Extensible Markup Languages)
+
+xml
+html
+SGML (Standard Generalized Markup Language)
+XHTML
+htm
