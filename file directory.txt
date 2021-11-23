@@ -1,0 +1,64 @@
+|
+⨽
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+example of a directory file
+
+public/
+    assets/
+        ...
+src/
+    client/
+        css/
+            ...
+        html/
+            index.html
+        index.js
+        ...
+    server/
+        server.js
+        ...
+    shared/
+        constants.js
+       
+there or more different ways like directory sh file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i dont know if you wanted this to like copy and paste but im gonna put it below anyway
+⨆⨅⨼⨽⩗⩘⩛⩉⩈⨸⩊⩉⩌⩸⩺⩹|¦¬⁋_¯‾—–⁄ⅼⅬ
